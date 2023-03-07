@@ -1,132 +1,141 @@
 {
-	"roads" : [
+  "roads":[
     {
-      ThanaID: "36601",
-      RoadId: "326144043",
-      RoadTypeCode: "2",
-      RoadSerialNo: "001",
-      RoadName: "Daulatpur-Kolia GC Road",
+      "ThanaID":"36601",
+      "RoadId":"326144043",
+      "RoadTypeCode":"2",
+      "RoadSerialNo":"001",
+      "RoadName":"Daulatpur-Kolia GC Road"
     },
     {
-      ThanaID: "36601",
-      RoadId: "326144044",
-      RoadTypeCode: "2",
-      RoadSerialNo: "002",
-      RoadName: "Daulatpur-Bachamara GC Road",
+      "ThanaID":"36601",
+      "RoadId":"326144044",
+      "RoadTypeCode":"2",
+      "RoadSerialNo":"002",
+      "RoadName":"Daulatpur-Bachamara GC Road"
     },
     {
-      ThanaID: "36601",
-      RoadId: "326144045",
-      RoadTypeCode: "2",
-      RoadSerialNo: "003",
-      RoadName: "Narchi-Shamgonj Hat Road",
+      "ThanaID":"36601",
+      "RoadId":"326144045",
+      "RoadTypeCode":"2",
+      "RoadSerialNo":"003",
+      "RoadName":"Narchi-Shamgonj Hat Road"
     },
     {
-      ThanaID: "36601",
-      RoadId: "326144046",
-      RoadTypeCode: "2",
-      RoadSerialNo: "004",
-      RoadName: "Kolia GC-Ghior hat via Bangala Bazar Road",
+      "ThanaID":"36601",
+      "RoadId":"326144046",
+      "RoadTypeCode":"2",
+      "RoadSerialNo":"004",
+      "RoadName":"Kolia GC-Ghior hat via Bangala Bazar Road"
     },
     {
-      ThanaID: "36601",
-      RoadId: "326144047",
-      RoadTypeCode: "2",
-      RoadSerialNo: "005",
-      RoadName: "Daulatpur H.Q-Samganj GC via Abudanga River Ghat Road",
+      "ThanaID":"36601",
+      "RoadId":"326144047",
+      "RoadTypeCode":"2",
+      "RoadSerialNo":"005",
+      "RoadName":"Daulatpur H.Q-Samganj GC via Abudanga River Ghat Road"
     },
     {
-      ThanaID: "36601",
-      RoadId: "18",
-      RoadTypeCode: "2",
-      RoadSerialNo: "006",
-      RoadName: "Narchi-Bachamara GC Road",
+      "ThanaID":"36601",
+      "RoadId":"18",
+      "RoadTypeCode":"2",
+      "RoadSerialNo":"006",
+      "RoadName":"Narchi-Bachamara GC Road"
     },
     {
-      ThanaID: "36601",
-      RoadId: "20",
-      RoadTypeCode: "2",
-      RoadSerialNo: "007",
-      RoadName:
-        "Manikganj-Bangladesh hat-Tilli-Kolia-Sonka-Nagarpur GC road(Doulatpur part).",
+      "ThanaID":"36601",
+      "RoadId":"20",
+      "RoadTypeCode":"2",
+      "RoadSerialNo":"007",
+      "RoadName":"Manikganj-Bangladesh hat-Tilli-Kolia-Sonka-Nagarpur GC road(Doulatpur part)."
     },
     {
-      ThanaID: "36601",
-      RoadId: "21",
-      RoadTypeCode: "2",
-      RoadSerialNo: "008",
-      RoadName: "Bachamara GC-Shamgonj GC-Jafarganj GC Road",
+      "ThanaID":"36601",
+      "RoadId":"21",
+      "RoadTypeCode":"2",
+      "RoadSerialNo":"008",
+      "RoadName":"Bachamara GC-Shamgonj GC-Jafarganj GC Road"
     },
     {
-      ThanaID: "36601",
-      RoadId: "59",
-      RoadTypeCode: "3",
-      RoadSerialNo: "001",
-      RoadName:
-        "Taluknagar Bazar-Ulail Bazar-Terosree (Poila UP Office) via Kolia UP Office Road",
+      "ThanaID":"36601",
+      "RoadId":"59",
+      "RoadTypeCode":"3",
+      "RoadSerialNo":"001",
+      "RoadName":"Taluknagar Bazar-Ulail Bazar-Terosree (Poila UP Office) via Kolia UP Office Road"
     },
     {
-      ThanaID: "36601",
-      RoadId: "73",
-      RoadTypeCode: "3",
-      RoadSerialNo: "002",
-      RoadName: "Banghutia UP Office (Shamgonj)- Katakhali Bazar Road",
+      "ThanaID":"36601",
+      "RoadId":"73",
+      "RoadTypeCode":"3",
+      "RoadSerialNo":"002",
+      "RoadName":"Banghutia UP Office (Shamgonj)- Katakhali Bazar Road"
     },
     {
-      ThanaID: "36601",
-      RoadId: "75",
-      RoadTypeCode: "3",
-      RoadSerialNo: "003",
-      RoadName: "Binodpur Bazar-Khalshi UP Office Road",
+      "ThanaID":"36601",
+      "RoadId":"75",
+      "RoadTypeCode":"3",
+      "RoadSerialNo":"003",
+      "RoadName":"Binodpur Bazar-Khalshi UP Office Road"
     },
     {
-      ThanaID: "36601",
-      RoadId: "77",
-      RoadTypeCode: "3",
-      RoadSerialNo: "004",
-      RoadName: "Dhamsar UP Office-Nirali Bazar via Hatkhora Rd.",
+      "ThanaID":"36601",
+      "RoadId":"77",
+      "RoadTypeCode":"3",
+      "RoadSerialNo":"004",
+      "RoadName":"Dhamsar UP Office-Nirali Bazar via Hatkhora Rd."
     },
     {
-      ThanaID: "36601",
-      RoadId: "82",
-      RoadTypeCode: "3",
-      RoadSerialNo: "005",
-      RoadName: "Bachamara UP Office-Charkatari UP -Doptier UP Road.",
+      "ThanaID":"36601",
+      "RoadId":"82",
+      "RoadTypeCode":"3",
+      "RoadSerialNo":"005",
+      "RoadName":"Bachamara UP Office-Charkatari UP -Doptier UP Road."
     },
     {
-      ThanaID: "36601",
-      RoadId: "83",
-      RoadTypeCode: "3",
-      RoadSerialNo: "006",
-      RoadName:
-        "Chak Mirpur UP Office (Matilal Degree College)-Daulatpur Bazar Road via forkania Madrasha road",
+      "ThanaID":"36601",
+      "RoadId":"83",
+      "RoadTypeCode":"3",
+      "RoadSerialNo":"006",
+      "RoadName":"Chak Mirpur UP Office (Matilal Degree College)-Daulatpur Bazar Road via forkania Madrasha road"
     },
     {
-      ThanaID: "36601",
-      RoadId: "84",
-      RoadTypeCode: "3",
-      RoadSerialNo: "007",
-      RoadName: "Jeonpur UP Office-Billpara-Shamgonj Bazar Rd.",
+      "ThanaID":"36601",
+      "RoadId":"84",
+      "RoadTypeCode":"3",
+      "RoadSerialNo":"007",
+      "RoadName":"Jeonpur UP Office-Billpara-Shamgonj Bazar Rd."
     },
     {
-      ThanaID: "36601",
-      RoadId: "302",
-      RoadTypeCode: "4",
-      RoadSerialNo: "001",
-      RoadName: "Baghutia-Pachuria Road.",
+      "ThanaID":"36601",
+      "RoadId":"302",
+      "RoadTypeCode":"4",
+      "RoadSerialNo":"001",
+      "RoadName":"Baghutia-Pachuria Road."
     },
     {
-      ThanaID: "36601",
-      RoadId: "308",
-      RoadTypeCode: "4",
-      RoadSerialNo: "002",
-      RoadName: "Bashail-Islampur Road.",
+      "ThanaID":"36601",
+      "RoadId":"308",
+      "RoadTypeCode":"4",
+      "RoadSerialNo":"002",
+      "RoadName":"Bashail-Islampur Road."
+    }
+  ],
+  "roadTypes":[
+    {
+      "id":"1",
+      "value":"UZR"
     },
-  ];
-	"roadTypes":[
-    { id: "1", value: "UZR" },
-    { id: "2", value: "UNR" },
-    { id: "3", value: "VR-A" },
-    { id: "4", value: "VR-B" },
+    {
+      "id":"2",
+      "value":"UNR"
+    },
+    {
+      "id":"3",
+      "value":"VR-A"
+    },
+    {
+      "id":"4",
+      "value":"VR-B"
+    }
   ]
 }
