@@ -1,141 +1,292 @@
 {
   "roads":[
     {
-      "ThanaID":"36601",
-      "RoadId":"326144043",
-      "RoadTypeCode":"2",
-      "RoadSerialNo":"001",
-      "RoadName":"Daulatpur-Kolia GC Road"
-    },
-    {
-      "ThanaID":"36601",
-      "RoadId":"326144044",
-      "RoadTypeCode":"2",
-      "RoadSerialNo":"002",
-      "RoadName":"Daulatpur-Bachamara GC Road"
-    },
-    {
-      "ThanaID":"36601",
-      "RoadId":"326144045",
-      "RoadTypeCode":"2",
-      "RoadSerialNo":"003",
-      "RoadName":"Narchi-Shamgonj Hat Road"
-    },
-    {
-      "ThanaID":"36601",
-      "RoadId":"326144046",
-      "RoadTypeCode":"2",
-      "RoadSerialNo":"004",
-      "RoadName":"Kolia GC-Ghior hat via Bangala Bazar Road"
-    },
-    {
-      "ThanaID":"36601",
-      "RoadId":"326144047",
-      "RoadTypeCode":"2",
-      "RoadSerialNo":"005",
-      "RoadName":"Daulatpur H.Q-Samganj GC via Abudanga River Ghat Road"
-    },
-    {
-      "ThanaID":"36601",
-      "RoadId":"18",
-      "RoadTypeCode":"2",
-      "RoadSerialNo":"006",
-      "RoadName":"Narchi-Bachamara GC Road"
-    },
-    {
-      "ThanaID":"36601",
-      "RoadId":"20",
-      "RoadTypeCode":"2",
-      "RoadSerialNo":"007",
-      "RoadName":"Manikganj-Bangladesh hat-Tilli-Kolia-Sonka-Nagarpur GC road(Doulatpur part)."
-    },
-    {
-      "ThanaID":"36601",
-      "RoadId":"21",
-      "RoadTypeCode":"2",
-      "RoadSerialNo":"008",
-      "RoadName":"Bachamara GC-Shamgonj GC-Jafarganj GC Road"
-    },
-    {
-      "ThanaID":"36601",
-      "RoadId":"59",
-      "RoadTypeCode":"3",
-      "RoadSerialNo":"001",
-      "RoadName":"Taluknagar Bazar-Ulail Bazar-Terosree (Poila UP Office) via Kolia UP Office Road"
-    },
-    {
-      "ThanaID":"36601",
-      "RoadId":"73",
-      "RoadTypeCode":"3",
-      "RoadSerialNo":"002",
-      "RoadName":"Banghutia UP Office (Shamgonj)- Katakhali Bazar Road"
-    },
-    {
-      "ThanaID":"36601",
-      "RoadId":"75",
-      "RoadTypeCode":"3",
-      "RoadSerialNo":"003",
-      "RoadName":"Binodpur Bazar-Khalshi UP Office Road"
-    },
-    {
-      "ThanaID":"36601",
-      "RoadId":"77",
-      "RoadTypeCode":"3",
-      "RoadSerialNo":"004",
-      "RoadName":"Dhamsar UP Office-Nirali Bazar via Hatkhora Rd."
-    },
-    {
-      "ThanaID":"36601",
-      "RoadId":"82",
-      "RoadTypeCode":"3",
-      "RoadSerialNo":"005",
-      "RoadName":"Bachamara UP Office-Charkatari UP -Doptier UP Road."
-    },
-    {
-      "ThanaID":"36601",
-      "RoadId":"83",
-      "RoadTypeCode":"3",
-      "RoadSerialNo":"006",
-      "RoadName":"Chak Mirpur UP Office (Matilal Degree College)-Daulatpur Bazar Road via forkania Madrasha road"
-    },
-    {
-      "ThanaID":"36601",
-      "RoadId":"84",
-      "RoadTypeCode":"3",
-      "RoadSerialNo":"007",
-      "RoadName":"Jeonpur UP Office-Billpara-Shamgonj Bazar Rd."
-    },
-    {
-      "ThanaID":"36601",
-      "RoadId":"302",
-      "RoadTypeCode":"4",
-      "RoadSerialNo":"001",
-      "RoadName":"Baghutia-Pachuria Road."
-    },
-    {
-      "ThanaID":"36601",
-      "RoadId":"308",
-      "RoadTypeCode":"4",
-      "RoadSerialNo":"002",
-      "RoadName":"Bashail-Islampur Road."
-    }
+    "ROADID": 1,
+    "UPAZILAID": 36101,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 1,
+    "ROADCODE": "326142001",
+    "ROADNAME": "Paragram RHD  - Dhantara GC Road",
+    "ROADLENGTH": 6.3
+  },
+  {
+    "ROADID": 2,
+    "UPAZILAID": 36101,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 2,
+    "ROADCODE": "326142002",
+    "ROADNAME": "Sreerampur RHD-Suapur GC Road",
+    "ROADLENGTH": 5.8
+  },
+  {
+    "ROADID": 3,
+    "UPAZILAID": 36101,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 3,
+    "ROADCODE": "326142003",
+    "ROADNAME": "Dhantara GC-Kushura GC Road",
+    "ROADLENGTH": 7.9
+  },
+  {
+    "ROADID": 4,
+    "UPAZILAID": 36101,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 4,
+    "ROADCODE": "326142004",
+    "ROADNAME": "Belishwar RHD-Kushura GC via Mohishasi kheya ghat  Road",
+    "ROADLENGTH": 6.6
+  },
+  {
+    "ROADID": 5,
+    "UPAZILAID": 36101,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 5,
+    "ROADCODE": "326142005",
+    "ROADNAME": "Sutipara RHD-Nanner GC Road",
+    "ROADLENGTH": 4.4
+  },
+  {
+    "ROADID": 457,
+    "UPAZILAID": 36102,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 2,
+    "ROADCODE": "326182002",
+    "ROADNAME": "Palamgonj RHW-Ekrashi GC Road",
+    "ROADLENGTH": 1.23
+  },
+  {
+    "ROADID": 458,
+    "UPAZILAID": 36102,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 3,
+    "ROADCODE": "326182003",
+    "ROADNAME": "Joypara GC-Bowbazar-Kathalighata-Mazhirkanda RHW (Dohar portion) Road",
+    "ROADLENGTH": 3.1
+  },
+  {
+    "ROADID": 459,
+    "UPAZILAID": 36102,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 4,
+    "ROADCODE": "326182004",
+    "ROADNAME": "Satvita GC-Polly bazar DR Road",
+    "ROADLENGTH": 2.25
+  },
+  {
+    "ROADID": 460,
+    "UPAZILAID": 36102,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 5,
+    "ROADCODE": "326182005",
+    "ROADNAME": "Satvita GC-Narisha Launch Ghat-Meghula Tikarpur DR Road",
+    "ROADLENGTH": 3.225
+  },
+  {
+    "ROADID": 461,
+    "UPAZILAID": 36102,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 7,
+    "ROADCODE": "326182007",
+    "ROADNAME": "Joypara GC-Darogabari-Palamgonj RHW Road",
+    "ROADLENGTH": 1.85
+  },
+  {
+    "ROADID": 789,
+    "UPAZILAID": 36103,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 1,
+    "ROADCODE": "326382001",
+    "ROADNAME": "Kalatia GC- Ramerkanda RHD Road.",
+    "ROADLENGTH": 7.35
+  },
+  {
+    "ROADID": 790,
+    "UPAZILAID": 36103,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 2,
+    "ROADCODE": "326382002",
+    "ROADNAME": "Hasnabad Power Station-Mollarhat Road via Bibir Bazar",
+    "ROADLENGTH": 12.2
+  },
+  {
+    "ROADID": 791,
+    "UPAZILAID": 36103,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 3,
+    "ROADCODE": "326382003",
+    "ROADNAME": "Itavara RHD-Amin Bazar GC Road",
+    "ROADLENGTH": 6.97
+  },
+  {
+    "ROADID": 792,
+    "UPAZILAID": 36103,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 4,
+    "ROADCODE": "326382004",
+    "ROADNAME": "Kalatia GC-Sirajnagar RHD via Sirajnagar High school",
+    "ROADLENGTH": 2.72
+  },
+  {
+    "ROADID": 793,
+    "UPAZILAID": 36103,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 5,
+    "ROADCODE": "326382005",
+    "ROADNAME": "Dhaka-Mawa road at Teghoria-Shaper Bazar via Mollar hat",
+    "ROADLENGTH": 8.11
+  },
+  {
+    "ROADID": 1714,
+    "UPAZILAID": 36104,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 1,
+    "ROADCODE": "326622001",
+    "ROADNAME": "Nawabgonj-Paragramhat GC Road.",
+    "ROADLENGTH": 16.88
+  },
+  {
+    "ROADID": 1715,
+    "UPAZILAID": 36104,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 2,
+    "ROADCODE": "326622002",
+    "ROADNAME": "Bandura (Alalpur)-Baruakhali-Sikaripara road (UZR #42)",
+    "ROADLENGTH": 5.5
+  },
+  {
+    "ROADID": 1716,
+    "UPAZILAID": 36104,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 3,
+    "ROADCODE": "326622003",
+    "ROADNAME": "Gobindapur bazar-RHD at Agla road.",
+    "ROADLENGTH": 1.5
+  },
+  {
+    "ROADID": 1717,
+    "UPAZILAID": 36104,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 4,
+    "ROADCODE": "326622004",
+    "ROADNAME": "Dohar-Katakhali-Nikara-Gobindapur-Tikarpur-Galimpur road",
+    "ROADLENGTH": 3.3
+  },
+  {
+    "ROADID": 1718,
+    "UPAZILAID": 36104,
+    "RDTYPECODE": "2",
+    "ROADSLNO": 5,
+    "ROADCODE": "326622005",
+    "ROADNAME": "Paragram GC to Kolatia GC rd via Dhalikandi Ferry Ghat(Nawabgonj Possion).",
+    "ROADLENGTH": 3.5
+  },
+  {
+    "ROADID": 850,
+    "UPAZILAID": 36105,
+    "RDTYPECODE": "3",
+    "ROADSLNO": 9,
+    "ROADCODE": "326723009",
+    "ROADNAME": "Birulia UP (Akran bazar)-Shadullapur Bazar Rd.",
+    "ROADLENGTH": 3.5
+  },
+  {
+    "ROADID": 851,
+    "UPAZILAID": 36105,
+    "RDTYPECODE": "3",
+    "ROADSLNO": 10,
+    "ROADCODE": "326723010",
+    "ROADNAME": "Ashulia UP-Katgora bazar-via Baro Rangamatia Rd.",
+    "ROADLENGTH": 4.9
+  },
+  {
+    "ROADID": 852,
+    "UPAZILAID": 36105,
+    "RDTYPECODE": "3",
+    "ROADSLNO": 11,
+    "ROADCODE": "326723011",
+    "ROADNAME": "Shingair RHD. at Shampur Bazar-Bhakurta UP via Mushurikhola Rd.",
+    "ROADLENGTH": 4.43
+  },
+  {
+    "ROADID": 853,
+    "UPAZILAID": 36105,
+    "RDTYPECODE": "3",
+    "ROADSLNO": 12,
+    "ROADCODE": "326723012",
+    "ROADNAME": "Amin bazar UP-Morichatek bazar",
+    "ROADLENGTH": 1.2
+  },
+  {
+    "ROADID": 854,
+    "UPAZILAID": 36105,
+    "RDTYPECODE": "3",
+    "ROADSLNO": 13,
+    "ROADCODE": "326723013",
+    "ROADNAME": "Dhaka-Aricha RHD. 20 Mile Road-Pathalia UP (Ghugudia) Road",
+    "ROADLENGTH": 4.56
+  },
+  {
+    "ROADID": 2982,
+    "UPAZILAID": 36106,
+    "RDTYPECODE": "4",
+    "ROADSLNO": 69,
+    "ROADCODE": "326734069",
+    "ROADNAME": "Naya Nagar Bazar-Mollah Bari road",
+    "ROADLENGTH": 0.85
+  },
+  {
+    "ROADID": 2983,
+    "UPAZILAID": 36106,
+    "RDTYPECODE": "4",
+    "ROADSLNO": 70,
+    "ROADCODE": "326734070",
+    "ROADNAME": "Khairtek-Motahar's House road-Mahfuj's house",
+    "ROADLENGTH": 1
+  },
+  {
+    "ROADID": 2984,
+    "UPAZILAID": 36106,
+    "RDTYPECODE": "4",
+    "ROADSLNO": 71,
+    "ROADCODE": "326734071",
+    "ROADNAME": "Shingapoor Training Centre-Chini Miah's House road",
+    "ROADLENGTH": 0.25
+  },
+  {
+    "ROADID": 2985,
+    "UPAZILAID": 36106,
+    "RDTYPECODE": "4",
+    "ROADSLNO": 72,
+    "ROADCODE": "326734072",
+    "ROADNAME": "Susama Housing-Moinertek",
+    "ROADLENGTH": 1
+  },
+  {
+    "ROADID": 2986,
+    "UPAZILAID": 36106,
+    "RDTYPECODE": "4",
+    "ROADSLNO": 73,
+    "ROADCODE": "326734073",
+    "ROADNAME": "Bamnartek-Rahman Matubbar's House road",
+    "ROADLENGTH": 1.239
+  }
   ],
   "roadTypes":[
     {
-      "id":"1",
-      "value":"UZR"
+      "RDTYPECODE":"1",
+      "ROADTYPENAME":"UZR"
     },
     {
-      "id":"2",
-      "value":"UNR"
+      "RDTYPECODE":"2",
+      "ROADTYPENAME":"UNR"
     },
     {
-      "id":"3",
-      "value":"VR-A"
+      "RDTYPECODE":"3",
+      "ROADTYPENAME":"VR-A"
     },
     {
-      "id":"4",
-      "value":"VR-B"
+      "RDTYPECODE":"4",
+      "ROADTYPENAME":"VR-B"
     }
   ]
 }
